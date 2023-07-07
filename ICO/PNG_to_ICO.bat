@@ -1,6 +1,8 @@
 @echo off
 
 for %%x in (
+  HDD
+  SSD
   audio
   cd
   cloud
