@@ -3,12 +3,14 @@
 for %%x in (
   HDD
   SSD
+  arcade
   audio
   cd
   cloud
   database
   games
   image
+  star
   user
   video
   windows
